@@ -1,4 +1,4 @@
-## Overview of the Analysis
+## Overview of the Analysis: Microcredit Loans Valuations
 This project takes place in a lending startup where the company needs help on valuing loans automatically. We are now creating a Python program to automate tasks involving valuing microcredit loans for a lending startup. The stages that are involved in this program are the following: 
     1. Automate the Calculations for the loan portfolio summaries.
     2. Analyze Loan Data to determine investment evaluation
